@@ -3,6 +3,8 @@
 ## Overview
 The primary purpose of this mod is to make the stress view show tensile vs compressive stress using different color coding.
 However, the mod also has options for pausing the game after the first break and/or every break that occurs, as well as a threshold mode for only showing stress changes when they are above a chosen percent.
+#### Example
+![Bridge with blue and red stress colors](/20210107203057_1.jpg)
 
 ## Installation
 Before starting make sure that PolyBridge 2 isn't open.
