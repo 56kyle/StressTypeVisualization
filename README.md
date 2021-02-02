@@ -1,5 +1,8 @@
 # StressTypeVisualization
 
+## Pre Note
+For a better version of this mod, please see https://github.com/Draradech/BetterStress
+
 ## Overview
 The primary purpose of this mod is to make the stress view show tensile vs compressive stress using different color coding.
 However, the mod also has options for pausing the game after the first break and/or every break that occurs, as well as a threshold mode for only showing stress changes when they are above a chosen percent.
